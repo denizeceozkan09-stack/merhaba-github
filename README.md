@@ -5,4 +5,4 @@ Bu depo, Github'ı öğrenirken açtığım ilk depo
 
 -**bölüm:**....
 ## hobiler
-- mkfdkfskf
+- mkfdkfskftftg
