@@ -1,2 +1,6 @@
 # merhaba-github
-github'ı öğrenirken oluşturduğum ilk depo
+Bu depo, Github'ı öğrenirken açtığım ilk depo
+
+## Hakkımda 
+
+-**bölüm:**....
